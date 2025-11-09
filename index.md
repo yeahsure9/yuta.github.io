@@ -7,4 +7,4 @@ Unofficial [Aliucord](https://github.com/Aliucord) docs :3 (made it so i dont ha
 - [How to set a custom font](https://yutaplug.github.io/Aliucord/font)
 - [How to use StartupSound, NoticeSound & CustomSounds plugins](https://yutaplug.github.io/Aliucord/sounds)
 - [Plugin forks info](https://yutaplug.github.io/Aliucord/forks)
-- [Voice Chat situation](https://yutaplug.github.io/Aliucord/voice-chat)
+- [Voice Chat situation](https://yutaplug.github.io/Aliucord/voicechat)
