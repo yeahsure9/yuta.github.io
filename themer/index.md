@@ -2,8 +2,9 @@
 First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin.
 
 ## How to create my own theme
-- [Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev)
-- [Theme maker](https://aliucord.com/theme-maker)
+[Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev)
+
+[Theme maker](https://aliucord.com/theme-maker)
 
 ## How to set a custom background
 First of all, you need to enable transparency in Themer settings (chat, chat & settings). If you want full transparency, you need to use the template found below.
