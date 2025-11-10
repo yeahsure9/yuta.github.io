@@ -1,4 +1,13 @@
 # How to use StartupSound, NoticeSound & CustomSounds plugins
+GitHub:
+- Create a github account 
+- Create a repo (make sure its public)
+- Click add file and upload the sound
+- Once uploaded, click its name
+- Hold `View raw` and copy the address
+- Paste the link(s) into the plugin
+
+Locally:
 - Install this [file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the sound file
 - Click the 3 dots next to it & press `Copy Path`
