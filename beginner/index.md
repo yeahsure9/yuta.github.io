@@ -1,13 +1,13 @@
-# How to install Aliucord
+## How to install Aliucord
 [Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
 
-# How to install Plugins
+## How to install Plugins
 [InstallPlugins.mp4](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
-# How to install Themes
+## How to install Themes
 [InstallThemes.mp4](https://aliucord.com/files/tut/InstallThemes.mp4)
 
-# How to install a plugin manually (required for #unmaintained-plugins channel)
+## How to install a plugin manually (required for #unmaintained-plugins channel)
 - Go to any plugin repository ([like this one](https://github.com/Juby210/Aliucord-plugins))
 - Click [this](https://files.catbox.moe/dgmzsq.png) and select `builds`
 - Click the [name](https://files.catbox.moe/5hnpyd.png) of the plugin you want
