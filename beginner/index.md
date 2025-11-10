@@ -6,10 +6,10 @@
 [Direct APK link](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
 
 ## How to install Plugins
-[InstallPlugins.mp4](https://aliucord.com/files/tut/InstallPlugins.mp4)
+[Video guide](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
 ## How to install Themes
-[InstallThemes.mp4](https://aliucord.com/files/tut/InstallThemes.mp4)
+[Video guide](https://aliucord.com/files/tut/InstallThemes.mp4)
 
 ## How to install a plugin manually (required for #unmaintained-plugins channel)
 - Go to any plugin repository ([like this one](https://github.com/Juby210/Aliucord-plugins))
