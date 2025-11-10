@@ -14,7 +14,7 @@
 - Click [this](https://files.catbox.moe/dgmzsq.png) and select `builds`
 - Click the [name](https://files.catbox.moe/5hnpyd.png) of the plugin you want
 - Click `View raw`
-- Now, with a file manager ([this one is recommended](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=es)) move the downloaded `.zip` to the `Aliucord` Folder
+- Now, with a file manager ([this one is recommended](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=es)) move the downloaded `.zip` to the `Aliucord/plugins` folder
 - Restart Aliucord
 
 [Video guide](https://streamable.com/a8pjvb)
