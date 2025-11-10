@@ -19,4 +19,4 @@
 - Now, with a file manager ([this one is recommended](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=es)) move the downloaded `.zip` to the `Aliucord/plugins` folder
 - Restart Aliucord
 
-[Video guide (made by nycto)](https://streamable.com/a8pjvb)
+[Video guide](https://streamable.com/a8pjvb)
