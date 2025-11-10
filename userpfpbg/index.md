@@ -1,5 +1,7 @@
+# How to use UserPFP & UserBG plugins
+
 **Note:** To use the commands you need to use the official Discord client due to Aliucord not supporting sending images using bot slash commands.
-# How to use UserPFP plugin
+## UserPFP
 - Make sure you have it installed
 - Join [UserPFP server](https://discord.gg/userpfp-1129784704267210844)
 - Read #avatar-rules before proceeding
@@ -9,7 +11,7 @@
 - When it's accepted go to the plugin settings and click "Redownload databases"
 - Restart Aliucord to see the changes
 
-# How to use UserBG plugin
+## UserBG
 - Make sure you have it installed
 - Join [UserBG server](https://discord.gg/TeRQEPb)
 - Read #usrbg-guide before proceeding
