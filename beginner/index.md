@@ -5,7 +5,7 @@
 
 [Direct APK link](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
 
-## How to install Plugins
+## How to install plugins
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
 - Make sure to be on Aliucord app
 - Go to #plugins-list or #new-plugins channels and hold any message (NOT THE LINK)
@@ -15,7 +15,7 @@
 
 [Video guide](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
-## How to install Themes
+## How to install themes
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
 - Make sure to be on Aliucord app
 - Install Themer plugin ([how to find it?](https://yutaplug.github.io/Aliucord/findplugins))
