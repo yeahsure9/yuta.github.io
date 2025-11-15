@@ -4,7 +4,7 @@ Aliucord always had issues with the Voice Chat feature since it was never a prio
 But now, it's even worse; Discord announced that [starting on March 1st, 2026](https://discord.com/blog/bringing-dave-to-all-discord-platforms) they will be forcing their [New End-to-End Encryption Protocol for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video) (which they call DAVE), meaning that users with old clients (such as Aliucord) won't be able to join/participate in Voice & Video conversations anymore (and if it's not clear yet, [this wont be a choice](https://ibb.co/HDTbj1dN)).
 
 ## Will it be fixed?
-No, at least not soon. For Aliucord devs, this was the last straw, nobody would want to write the whole protocol implementation for Aliucord, unless a random person comes willing to do it, which is very unlikely.
+No, at least not soon. For Aliucord devs, this was the last straw. Nobody would want to write the whole protocol implementation for Aliucord, unless a random person comes willing to do it, which is very unlikely.
 
 ## Recommendation
 The most we can recommend for now, is to use the [Official Discord App](https://discord.com/download) for calls, and keep using Aliucord to enjoy its chat features. Sadly, there's no estimation for the future of Voice Chat on Aliucord.
