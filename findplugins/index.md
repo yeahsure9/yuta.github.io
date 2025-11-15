@@ -1,7 +1,5 @@
 # Aliucord plugin searching guide
 
-[How to install plugins?](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-plugins)
-
 Don't ask where a plugin is, find it by yourself!
 
 on Aliucord Discord server, open the searchbar (🔍︎ icon at the topbar right corner), now type `in:#plugins-list in:#new-plugins in:#unmaintained-plugins PluginNameHere` (replace PluginNameHere with the plugin name, fer example if you want MessageLogger, type MessageLogger, almost every plugin is published with no spaces so you need to type it this exact way). If the `in:` parameter doesn't work and still gives results for all channels, you have your Aliucord in another language that is not english, in this case, change it to english or type `in:` but in your language. You can also add the parameter through [this page
