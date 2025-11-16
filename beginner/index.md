@@ -1,9 +1,8 @@
 # Aliucord guide for beginner users
 
 ## How to install Aliucord
-[Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
-
-[Direct Manager APK link](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
+- [Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
+- [Direct Manager APK link](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
 
 ## How to install plugins
 - Join [Aliucord Discord server](https://discord.gg/EsNDvBaHVU)
