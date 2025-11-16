@@ -16,4 +16,4 @@ Locally:
  
 Final result should be `file://storage/emulated/0/Example/Example.mp3`
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fsounds&label=&icon=eye&color=%23000&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fsounds&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
