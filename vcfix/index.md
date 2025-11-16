@@ -4,7 +4,7 @@
 - Extract it and find `Aliucord.zip` inside it
 - Move `Aliucord.zip` to your `Aliucord` folder ([video tutorial](https://streamable.com/dj705w))
 - Open Aliucord settings
-- Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg)
+- Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg) ([video tutorial](https://streamable.com/pxcs34))
 - Restart Aliucord
 
 >If that didn't work, make sure your Aliucord is updated through [Manager](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
