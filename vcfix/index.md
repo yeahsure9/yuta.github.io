@@ -16,3 +16,5 @@ If you are sure it's already updated but still doesn't work, install [ForceAliuc
 - Restart Aliucord two times
 
 This plugin makes the `Aliucord.zip` work without need to enable `Aliucord from storage`, which seems broken on some devices
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fvcfix&label=&icon=eye-fill&color=%23000&message=&style=flat&tz=UTC)
