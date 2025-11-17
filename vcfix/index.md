@@ -1,5 +1,5 @@
 # Temporary workaround for VC on Aliucord
-- Download [this .zip](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Fvc/build.zip?status=completed)
+- Download [this .zip](https://nightly.link/Aliucord/Aliucord/workflows/build/main/build.zip)
 - Extract it and find `Aliucord.zip` inside it
 - Move `Aliucord.zip` to your `Aliucord` folder ([video tutorial](https://streamable.com/dj705w))
 - Open Aliucord settings
