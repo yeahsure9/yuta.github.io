@@ -10,7 +10,6 @@ Unofficial [Aliucord](https://aliucord.com) docs :3 (made it so i dont have to u
 - [StartupSound, NoticeSound & CustomSounds guide](/Aliucord/sounds)
 - [Plugin forks info](/Aliucord/forks)
 - [UserPFP & UserBG guide](/Aliucord/userpfpbg)
-- ["Failed to initialize Aliucord" workaround](/Aliucord/initialize)
 - [Plugin searching guide](/Aliucord/findplugins)
 - [Link opening fix](/Aliucord/links)
 - [How to get New UI](/Aliucord/newui)
